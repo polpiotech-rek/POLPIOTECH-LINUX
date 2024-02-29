@@ -1,0 +1,10 @@
+2024-02-23 15:57:36 [ BACKUP: DESKTOP ] [Errno 13] Permission denied: '/media/rekbod/F5AF-B248'
+2024-02-23 18:58:05 [ BACKUP: DESKTOP ] [Errno 13] Permission denied: '/media/rekbod/F5AF-B248'
+2024-02-23 19:49:39 [ SYSTEM: FILE OPERATIONS ] [Errno 2] No such file or directory: '.d/'
+2024-02-24 22:11:04 [ BACKUP: DESKTOP ] [Errno 13] Permission denied: '/media/rekbod/F5AF-B248'
+2024-02-26 23:34:17 [ BACKUP: DESKTOP ] [Errno 13] Permission denied: '/media/rekbod/F5AF-B248'
+2024-02-28 15:19:42 [ BACKUP: DESKTOP ] [Errno 13] Permission denied: '/media/rekbod/F5AF-B248'
+2024-02-28 22:41:50 [ SYSTEM: FILE OPERATIONS ] System.information() missing 1 required positional argument: 'self'
+2024-02-28 22:42:34 [ SYSTEM: FILE OPERATIONS ] type object 'System' has no attribute 'self'
+2024-02-29 11:59:30 [ BACKUP: DESKTOP ] [Errno 13] Permission denied: '/media/rekbod/F5AF-B248'
+2024-02-29 12:10:06 [ BACKUP: DESKTOP ] [('/home/rekbod/Desktop/To Do.txt', '/media/rekbod/F5AF-B248/Kubuntu/2024-02-29/To Do.txt', "[Errno 2] No such file or directory: '/home/rekbod/Desktop/To Do.txt'")]
